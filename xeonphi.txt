@@ -1,0 +1,19 @@
+Xeon Phi 7120A Coprocessor
+Xeon Phi 7120D Coprocessor
+Xeon Phi 3120A Coprocessor
+Xeon Phi 3120P Coprocessor
+Xeon Phi 5120D Coprocessor
+Xeon Phi 7120P Coprocessor
+Xeon Phi 7120X Coprocessor
+Xeon Phi 5110P Coprocessor
+Xeon Phi 7210
+Xeon Phi 7210F
+Xeon Phi 7230
+Xeon Phi 7230F
+Xeon Phi 7250
+Xeon Phi 7250F
+Xeon Phi 7290
+Xeon Phi 7290F
+Xeon Phi 7235
+Xeon Phi 7285
+Xeon Phi 7295

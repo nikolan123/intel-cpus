@@ -1,0 +1,7 @@
+Intel® Processor U300
+Intel® Processor U300E
+Intel® Processor N100
+Intel® Processor N200
+Intel® Processor N50
+Intel® Processor N97
+Intel® Processor N95

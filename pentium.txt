@@ -1,0 +1,272 @@
+Pentium Gold 8500
+Pentium Gold 8505
+Pentium Gold 8505 (with IPU)
+Pentium Gold G7400
+Pentium Gold G7400E
+Pentium Gold G7400T
+Pentium Gold G7400TE
+Pentium Gold G6405
+Pentium Gold G6405T
+Pentium Gold G6505
+Pentium Gold G6505T
+Pentium Gold G6605
+Pentium Gold 6500Y
+Pentium Gold 7505
+Pentium Gold G6400
+Pentium Gold G6400E
+Pentium Gold G6400T
+Pentium Gold G6400TE
+Pentium Gold G6500
+Pentium Gold G6500T
+Pentium Gold G6600
+Pentium Gold 6405U
+Pentium Gold G5420
+Pentium Gold G5420T
+Pentium Gold G5600T
+Pentium Gold G5620
+Pentium Gold 5405U
+Pentium Gold 4417U
+Pentium Gold 4425Y
+Pentium Gold G5400
+Pentium Gold G5400T
+Pentium Gold G5500
+Pentium Gold G5500T
+Pentium Gold G5600
+Pentium Gold 4415Y
+Pentium Gold 4410Y
+Pentium Gold 4415U
+Pentium Silver N6000
+Pentium Silver N6005
+Pentium Silver J5040
+Pentium Silver N5030
+Pentium Silver J5005
+Pentium Silver N5000
+Pentium D1519
+Pentium D1507
+Pentium D1508
+Pentium D1509
+Pentium D1517
+Pentium G4560
+Pentium G4560T
+Pentium G4600
+Pentium G4600T
+Pentium G4620
+Pentium G4400TE
+Pentium G4400
+Pentium G4400T
+Pentium G4500
+Pentium G4500T
+Pentium G4520
+Pentium G3260
+Pentium G3260T
+Pentium G3460T
+Pentium G3470
+Pentium G3250
+Pentium G3250T
+Pentium G3450T
+Pentium G3460
+Pentium G3258
+Pentium G3240
+Pentium G3240T
+Pentium G3440
+Pentium G3440T
+Pentium G3450
+Pentium G3220
+Pentium G3220T
+Pentium G3320TE
+Pentium G3420
+Pentium G3420T
+Pentium G3430
+Pentium G2030
+Pentium G2030T
+Pentium G2120T
+Pentium G2140
+Pentium G2010
+Pentium G2020
+Pentium G2020T
+Pentium G2130
+Pentium G2100T
+Pentium G2120
+Pentium J6426
+Pentium J4205
+Pentium J3710
+Pentium J2900
+Pentium J2850
+Pentium N6415
+Pentium N4200E
+Pentium N4200
+Pentium N3710
+Pentium N3700
+Pentium N3540
+Pentium N3530
+Pentium N3520
+Pentium N3510
+Pentium 6805
+Pentium 4405U
+Pentium 4405Y
+Pentium 3825U
+Pentium 3805U
+Pentium 3560M
+Pentium 3558U
+Pentium 3561Y
+Pentium 3550M
+Pentium 3556U
+Pentium 3560Y
+Pentium 2127U
+Pentium 2030M
+Pentium 2129Y
+Pentium 2020M
+Pentium 2117U
+Pentium A1020
+Pentium 1405 v2
+Pentium A1018
+Pentium 1405
+Pentium B925C
+Pentium 987
+Pentium 997
+Pentium G645
+Pentium G645T
+Pentium B980
+Pentium G640
+Pentium G640T
+Pentium G860T
+Pentium G870
+Pentium B915C
+Pentium 977
+Pentium B970
+Pentium 967
+Pentium B960
+Pentium G630
+Pentium G630T
+Pentium G632
+Pentium G6951
+Pentium G860
+Pentium 957
+Pentium B940
+Pentium B950
+Pentium G620
+Pentium G620T
+Pentium G622
+Pentium G840
+Pentium G850
+Pentium G6960
+Pentium U5600
+Pentium P6300
+Pentium E5800
+Pentium E5700
+Pentium E6800
+Pentium P6100
+Pentium P6200
+Pentium E6700
+Pentium U5400
+Pentium E5500
+Pentium P6000
+Pentium G6950
+Pentium E6600
+Pentium T4500
+Pentium T4400
+Pentium E6500
+Pentium E6500K
+Pentium E6300
+Pentium E5400
+Pentium T4200
+Pentium E5300
+Pentium T3400
+Pentium E5200
+Pentium E2220
+Pentium T2370
+Pentium E2200
+Pentium T2310
+Pentium T2330
+Pentium E2180
+Pentium E2140
+Pentium T2080
+Pentium T2130
+Pentium D 935
+Pentium T2060
+Pentium 4 651 Supporting HT Technology
+Pentium D 915
+Pentium D 925
+Pentium D 945
+Pentium E2160
+Pentium 4 524 Supporting HT Technology
+Pentium D 960
+Pentium 4 631 Supporting HT Technology
+Pentium 4 641 Supporting HT Technology
+Pentium 4 661 Supporting HT Technology
+Pentium D 920 (1)
+Pentium D 920 (2)
+Pentium D 930
+Pentium D 940
+Pentium D 950
+Pentium 955 Extreme Edition
+Pentium 965 Extreme Edition
+Pentium 4 511
+Pentium 4 516
+Pentium 4 540J Supporting HT Technology
+Pentium 4 630 Supporting HT Technology
+Pentium 4 662 Supporting HT Technology
+Pentium 4 672 Supporting HT Technology
+Pentium 4 515/515J
+Pentium 4 517 Supporting HT Technology
+Pentium 4 521 Supporting HT Technology
+Pentium 4 561 Supporting HT Technology
+Pentium 4 571 Supporting HT Technology
+Pentium 4 506
+Pentium 4 670 Supporting HT Technology
+Pentium D 820
+Pentium D 830
+Pentium D 840
+Pentium 840 Extreme Edition
+Pentium 4 505/505J
+Pentium 4 640 Supporting HT Technology
+Pentium 4 650 Supporting HT Technology
+Pentium 4 660 Supporting HT Technology
+Pentium D 805
+Pentium M 760
+Pentium 4 519K
+Pentium 4 520J Supporting HT Technology
+Pentium 4 530J Supporting HT Technology
+Pentium 4 550J Supporting HT Technology
+Pentium 4 570J Supporting HT Technology
+Pentium 4 Extreme Edition Supporting HT Technology, 3.46 GHz, 2M Cache, 1066 MHz FSB
+Pentium 4 Extreme Edition Supporting HT Technology, 3.73 GHz, 2M Cache, 1066 MHz FSB
+Pentium M LV 738
+Pentium 4 541 Supporting HT Technology
+Pentium 4 531 Supporting HT Technology
+Pentium 4 551 Supporting HT Technology
+Pentium M 745
+Pentium M 745A
+Pentium 4 520 Supporting HT Technology
+Pentium 4 530/530J Supporting HT Technology
+Pentium 4 540/540J Supporting HT Technology
+Pentium 4 550 Supporting HT Technology
+Pentium M 725
+Pentium 4, 2.80 GHz, 512K Cache, 533 MHz FSB
+Pentium 4 Mobile Supporting HT Technology, 2.80E GHz, 1M Cache, 800 MHz FSB
+Pentium 4 Supporting HT Technology, 3.00 GHz, 1M Cache, 800 MHz FSB
+Pentium 4 Supporting HT Technology, 3.00E GHz, 1M Cache, 800 MHz FSB
+Pentium 4 Supporting HT Technology, 3.20 GHz, 1M Cache, 800 MHz FSB
+Pentium 4 Supporting HT Technology, 3.20E GHz, 1M Cache, 800 MHz FSB
+Pentium 4 Supporting HT Technology, 3.40 GHz, 1M Cache, 800 MHz FSB
+Pentium 4 Supporting HT Technology, 3.40E GHz, 1M Cache, 800 MHz FSB
+Pentium M 1.60 GHz, 1M Cache, 400 MHz FSB
+Pentium M LV 1.10 GHz, 1M Cache, 400 MHz FSB
+Pentium 4 2.60 GHz, 512K Cache, 400 MHz FSB
+Pentium 4 Mobile - M 2.20 GHz, 512K Cache, 400 MHz FSB
+Pentium 4 Mobile - M 1.70 GHz, 512K Cache, 400 MHz FSB
+Pentium 4 2.00 GHz, 512K Cache, 400 MHz FSB
+Pentium 4 2.20 GHz, 512K Cache, 400 MHz FSB
+Pentium 4 2.40 GHz, 512K Cache, 400 MHz FSB
+Pentium 4 2.40 GHz, 512K Cache, 533 MHz FSB
+Pentium 4 2.50 GHz, 512K Cache, 400 MHz FSB
+Pentium III - S 1.26 GHz, 512K Cache, 133 MHz FSB
+Pentium III - S 800 MHz, 512K Cache, 133 MHz FSB
+Pentium III - S 933 MHz, 512K Cache, 133 MHz FSB
+Pentium III 1.00 GHz, 256K Cache, 100 MHz FSB
+Pentium III 1.00 GHz, 256K Cache, 133 MHz FSB
+Pentium III 600 MHz, 256K Cache, 100 MHz FSB
+Pentium III 700 MHz, 256K Cache, 100 MHz FSB
+Pentium III 733 MHz, 256K Cache, 133 MHz FSB
+Pentium III 850 MHz, 256K Cache, 100 MHz FSB
+Pentium III 866 MHx, 256K Cache, 133 MHz FSB

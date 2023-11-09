@@ -1,0 +1,11 @@
+Quark SoC X1001
+Quark SoC X1011
+Quark SoC X1020
+Quark SoC X1021
+Quark SoC X1021D
+Quark SoC X1010
+Quark SoC X1020D
+Quark SoC X1000
+Quark Microcontroller D1000
+Quark Microcontroller D2000
+Quark Microcontroller SE C1000
